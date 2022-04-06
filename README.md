@@ -5,4 +5,4 @@ In order to replicate the model outlined in the 2013 article "Atomated Bed Assig
 
 In the Data Creations folder, you shall see the python code that we used to do generate such data. For the logic and reasonings behind this, please read Section 2 of the final report. 
 
-For the models that we created to analyse how well patients are assigned to beds, please see the Model folder. 
+For the models that we created to analyse how well patients are assigned to beds, please see the Model folder. The constraints included within the model can be found in Section 3 of the report, with the full mathematical model outline in Appendix A.
